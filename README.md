@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Newbie coder from India.</h3>
 
 
-:smile: 
+
 
 ## 🙋‍♂️ About Me
 
