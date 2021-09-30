@@ -4,6 +4,8 @@
 <h3 align="center">I'm a passionate Newbie coder from India.</h3>
 
 
+:smile: 
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[#100daysOfcode](https://github.com/archismansaha/100DaysOfCode)**
