@@ -8,7 +8,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[#100daysOfcode](https://github.com/archismansaha/100DaysOfCode)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and Development**
 
