@@ -1,6 +1,6 @@
 <a href="https://gist.github.com/brettlangdon/85942af486eb79118467#file-itw9fou-jpg"><img width="100%" height="auto" src="https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/iTW9Fou.jpg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Archisman</h1>
+<h1 align="center">Hi , I'm Archisman</h1>
 <h3 align="center">I'm a passionate Newbie coder from India.</h3>
 
 
